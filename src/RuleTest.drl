@@ -1,0 +1,7 @@
+
+dialect  "mvel"
+
+rule "RuleTest"
+    when
+    then
+end
